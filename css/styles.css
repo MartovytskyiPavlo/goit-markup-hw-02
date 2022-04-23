@@ -167,6 +167,10 @@
     background-color: var(--accent-color);
 }
 
+.item {
+    text-decoration: none;
+}
+
 .item:hover,
 .item:focus {
     color: var(--accent-color);
